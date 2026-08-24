@@ -1,0 +1,8 @@
+streamlit>=1.57.0
+transformers>=4.48.0,<5.0.0
+torch>=2.4.0
+sentence-transformers>=3.3.0
+pypdf>=5.0.0
+numpy>=1.26.0
+sentencepiece>=0.2.0
+chromadb>=1.0.0
